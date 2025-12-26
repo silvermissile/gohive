@@ -1,0 +1,4 @@
+v2.0.0-rc3-fix
+
+This version includes the fix for HiveConfiguration not being passed to connectConfiguration.
+See: https://github.com/beltran/gohive/pull/259
